@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    font-size: 30px;
+    font-family: italic;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 10px;
+}
+body{
+    background-image: linear-gradient(to right, #01022d,#000000 );
+   
+}
+.gad{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+
+}
+
+/* .gad:hover{
+    font-size: 20px;
+    background:
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+} */
+.gad1{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+}
+.gad2{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+}
+.gad3{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+}
+footer h3{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+}
+
+ul li{
+    font-size: 15px;
+    display: flex;
+    justify-content: right;
+    justify-content: space-around;
+
+
+}
